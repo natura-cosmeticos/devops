@@ -3,19 +3,22 @@ Natura DevOps - Challenge
 
 Hello and thanks for taking the time to try this out.
 
-The goal of this test is to assert (to some degree) your coding and architectural skills. You're given a simple problem so you can focus on showcasing **dev** and **ops** techniques.
+The goal of this test is to assert (to some degree) your coding and architectural skills. 
+You're given a simple problem so you can focus on showcasing **dev** and **ops** techniques.
 
-As this is a review process, please avoid adding generated code and manifests to the project. This makes our jobs as reviewers more difficult, as we can't review files that you didn't write it. This means avoiding committing vendor folders or similar, which generates thousands of lines of code in stub files.
+As this is a review process, please avoid adding generated code and manifests to the project. 
+This makes our jobs as reviewers more difficult, as we can't review files that you didn't write it. 
+This means avoiding committing vendor folders or similar, which generates thousands of lines of code in stub files.
 
-_Note: While we love open source here at Natura, please do not create a public repo with your test in! This challenge is only shared with people interviewing, and for obvious reasons, we'd like it to remain this way._
+_Note: While we love open source here at Natura &Co, please do not create a public repo with your test in! 
+This challenge is only shared with people interviewing, and for obvious reasons, we'd like it to remain this way._
 
 Instructions
 -----
 
-1. Clone this repository.
-2. Create a new branch called `${YOUR-NAME}`.
-3. Create a pull request from your `dev` branch to the master branch. This PR should contain setup instructions for your application and a breakdown of the technologies & packages you chose to use, why you chose to use them, and the design decisions you made.
-4. Reply to the thread you're having with our HR department telling them we can start reviewing your material
+1. Fork this repository.
+2. Create a pull request from your branch to the master branch. This PR should contain setup instructions for your application and a breakdown of the technologies & packages you chose to use, why you chose to use them, and the design decisions you made.
+3. Reply to the thread you're having with our HR department telling them we can start reviewing your material (please include PR number).
 
 
 Task
